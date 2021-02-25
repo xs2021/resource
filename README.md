@@ -305,7 +305,3 @@
 >    [http://gmengshuai.ys168.com/](http://gmengshuai.ys168.com/)
 >
 > 3. QQ联系我：191639197
-
-# 资源获取方式
-
-111
