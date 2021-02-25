@@ -196,10 +196,10 @@
 | [2021考研英语精选课程](https://pan.baidu.com/s/1nB_5U6K3-2IZMdC_11pbLA) |  vi06  |
 | [2021考研数学精选课程](https://pan.baidu.com/s/1_3z7bsnVSIMFVl7NuELNMQ) |  53ls  |
 | [2021考研政治精选课程](https://pan.baidu.com/s/1hismVTCakv9Tiu2MpCEcLw) |  aob2  |
-| [2021考研复试渠道](https://pan.baidu.com/s/1hLJpebt1nEIiQ8e3pWOH1w) |  0ld5  |
+| [2021考研复试渠道](https://pan.baidu.com/s/1GJ51LUlfiCto9FAk1xOq1Q) |  63wk  |
 | [二李复习全书2015年教程[暴风影音]](https://pan.baidu.com/s/1OayKgCJg4dq7mWlDI9N15A) |  a09x  |
 |                                                              |        |
-| [经济学人](https://pan.baidu.com/s/1Uo7FHKg9DtZ84raACyalJg)  |  w5bn  |
+| [经济学人](https://pan.baidu.com/s/1-6mW7gDAWrpCwYpCKui5zA)  |  cxwc  |
 |                                                              |        |
 | [2020新东方计算机](https://pan.baidu.com/s/1EVtfb1pB-QTmw22iC2pUew) |  vlzw  |
 |                                                              |        |
@@ -217,9 +217,9 @@
 | :----------------------------------------------------------- | :----: |
 | [2019英语四级全程班](https://pan.baidu.com/s/1p5rM12VGr9nmb48wQBvpYA) |  fa7k  |
 | [2019英语六级全程班](https://pan.baidu.com/s/1ZNHpImSeTBvma3kKDRlQtw) |  5wq7  |
-| [2019四六级通用](https://pan.baidu.com/s/1zsF9R_ZA5SgdY14zHZBnOg) |  60ne  |
-| [2020英语部分四级全程班](https://pan.baidu.com/s/1HkB21xulUhKyKpKN_fKe4g) |  2usu  |
-| [2020英语部分六级全程班](https://pan.baidu.com/s/1g88RM2uX2QdH5V9XEHfemA) |  8rwy  |
+| [2019四六级通用](https://pan.baidu.com/s/19ueNI4Ud-_ylScDeRq_AAQ) |  55q8  |
+| [2020英语部分四级全程班](https://pan.baidu.com/s/1wbqYn9A91dSXv6j1Mfk6Kw) |  8unk  |
+| [2020英语部分六级全程班](https://pan.baidu.com/s/1BZD9OwlOsaEeoKrulclwMg) |  j77i  |
 |                                                              |        |
 | [英语四级历年真题21套（含听力及详解）](https://pan.baidu.com/s/1ZZtCNPx6qb_C3S0getPvPA) |  u50w  |
 
@@ -227,14 +227,14 @@
 
 | 标题链接                                                     | 提取码 |
 | :----------------------------------------------------------- | :----: |
-| [21教师资格证](https://pan.baidu.com/s/1KC_9p7m57kovJfrQmucWlA) |  lzp3  |
+| [21教师资格证](https://pan.baidu.com/s/1unjOd4YBR2Y2eS1k7MW97A) |  i5e7  |
 
 ✅计算机等考|软考
 
 | 标题链接                                                     | 提取码 |
 | :----------------------------------------------------------- | :----: |
 | [计算机等级考试（100G内含教程1~4级）](https://pan.baidu.com/s/1l5KKBeQ4NhKJXTZqj_gElQ) |  lcnm  |
-| [计算机等级考试1-4级题库（全能破解版）](https://pan.baidu.com/s/1wE3kXGZaaMlPwZuGAc6FXQ) |  dkzp  |
+| [计算机等级考试1-4级题库（全能破解版）](https://cloud.189.cn/t/ZjEvqufENZZr) |  ztw5  |
 | [计算机等级考试题库（2020.3月）](https://pan.baidu.com/s/1qB4Qwcdthfdx7XrgQFEGGw) |  8jk3  |
 | [中级-数据库系统工程师](https://pan.baidu.com/s/1n2LlkkkQRPQmFYlX2_jjTA) |  v8ni  |
 | [18年网络工程师](https://pan.baidu.com/s/1pm4CDMBOkSDBjy0jR32HGQ) |  jzr1  |
@@ -305,3 +305,7 @@
 >    [http://gmengshuai.ys168.com/](http://gmengshuai.ys168.com/)
 >
 > 3. QQ联系我：191639197
+
+# 资源获取方式
+
+111
