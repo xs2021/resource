@@ -5,7 +5,7 @@
 > **资源部分来自网络，仅供学习交流试看，严禁用于商业用途，请于下载后24小时内删除！请支持正版！**
 
 > **分享的资源我估算一下有10TB以上，大家各取所需**
->
+
 ****
 
 💻电脑端按下键盘「Ctrl + F」即可进行搜索
@@ -26,7 +26,6 @@
 | [liuyubobobo部分教程](https://pan.baidu.com/s/1QY09SjKPJaBbOO8jkqhw6w) |  hd6i  |
 | [数据结构【C语言版】](https://pan.baidu.com/s/1RDP2-sFudNybOnXhhZlWKA) |  98tw  |
 | [青岛大学王卓数据结构](https://pan.baidu.com/s/1_mPoXnMUx5jVznmXiz-yKg) |  j1l3  |
-| [牛客网算法班](https://pan.baidu.com/s/1RZv8ZjvW61KoED2L54TyPQ) |  9qkd  |
 | [恋上数据结构Java（三季全）](https://pan.baidu.com/s/1MTRISIfIpV-aK67NG7_PjQ) |  5r2t  |
 | [极客时间-算法面试通关40讲](https://pan.baidu.com/s/1RYwxmDI3aWZ2V9XUkIczAw) |  bvso  |
 | [极客-算法训练营](https://pan.baidu.com/s/1T3SfEGByiz7YPrzjmtQokQ) |  ugsx  |
