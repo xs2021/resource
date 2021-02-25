@@ -2,6 +2,10 @@
 
 > **分享的资源我估算一下有10TB以上，大家各取所需**
 
+新年过后，我把自己的资源全部整理进行分享（10TB以上）
+
+互联网的资源众多，但是多数链接都是残缺、失效的，所以我把自己一路收集的资源进行分享，希望能帮助一些朋友少费一点点时间和精力，同时我也是一个喜欢交友的人，希望能够结交更多的朋友！
+
 ****
 
 💻电脑端按下键盘「Ctrl + F」即可进行搜索
@@ -146,8 +150,7 @@
 | [迪士尼动画](https://pan.baidu.com/s/1vKdojrBXFr1fGYo__lH8Bw) |  kky5  |
 | [The Infinity Saga【漫威系列】](https://cloud.189.cn/t/ZFRriqBf6bQj) |  yjz0  |
 | [华语无损音乐](https://cloud.189.cn/t/NBZn63fqEfey)          |  uc8u  |
-
-
+| [陈一发儿专辑全](https://cloud.189.cn/t/NFvUfmZvuama)        |  vnp4  |
 
 
 
@@ -303,3 +306,5 @@
 >    [http://gmengshuai.ys168.com/](http://gmengshuai.ys168.com/)
 >
 > 3. QQ群联系我：765653974
+
+点击左下角阅读原文更加易于取资源
