@@ -304,6 +304,6 @@
 >
 >    [http://gmengshuai.ys168.com/](http://gmengshuai.ys168.com/)
 >
-> 3. QQ群联系我：765653974
+> 3. QQ联系我：191639197
 
 点击左下角阅读原文更加易于取资源
