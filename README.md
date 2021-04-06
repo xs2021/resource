@@ -165,7 +165,7 @@
 | [概率论与数理统计(徐小湛)浙大四版](https://pan.baidu.com/s/1S9i2JPBkz6plhCTkbeZZ_A) |  l03f  |
 | [高等数学 上册（同济七版）汤家凤精讲新版](https://pan.baidu.com/s/1Sh_YeD6bycOUlwFSamwrqg) |  n15i  |
 | [高等数学 下册（同济七版）汤家凤精讲新版](https://pan.baidu.com/s/1QixddlWl-VZPtD5o5Q3E9w) |  ys4r  |
-| [高数上零基础（同济七版）汤家凤精讲旧版](https://pan.baidu.com/s/1zwYONEn9nciY9FjTr619jQ) |  tquf  |
+| [高数上零基础（同济七版）汤家凤精讲旧版](https://pan.baidu.com/s/13AsFBs3lxruhQBagLLuH7w) |  56cp  |
 | [高数下零基础（同济七版）汤家凤精讲旧版](https://pan.baidu.com/s/118O6ekzKeECtve8Ldv39Uw) |  d21n  |
 | [2020张宇基础精讲课程](https://pan.baidu.com/s/1ftu-nHkFEFqANQuXUDK6jA) |  cn3t  |
 | [吉林大学 高等数学(同济六版) 陈殿友 128讲](https://pan.baidu.com/s/19vH9C-YaDw34Pix0h7mDyg) |  66c8  |
@@ -187,7 +187,13 @@
 
 
 
-# 考研|考证|国考🚛
+# 专升本|考研|考证|国考🚛
+
+✅专升本
+
+| 标题链接                                                     | 提取码 |
+| ------------------------------------------------------------ | ------ |
+| [2020库课河南专升本高数英语视频+题](https://pan.baidu.com/s/1n-jDbnQB7s3FHPoPrAKODQ) | ty4a   |
 
 ✅考研类
 
