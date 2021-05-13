@@ -20,7 +20,7 @@
 
 | 标题链接                                                     | 提取码 |
 | :----------------------------------------------------------- | :----: |
-| [数据结构全【郝斌老师】-【35-44集无电音版】](https://pan.baidu.com/s/1tDMxHIzGb7LE-26mbqf1WA)： |  dc79  |
+| [数据结构全【郝斌老师】-【35-44集无电音版】](https://pan.baidu.com/s/1tDMxHIzGb7LE-26mbqf1WA) |  dc79  |
 | [算法原理与实践 [C++] by GeekBand-极客班](https://pan.baidu.com/s/1cbtD22B8PXFwelrTNP162A) |  96yv  |
 | [数据结构与算法进阶班〖python版〗](https://pan.baidu.com/s/1ACovL_aFyrwR1NCZQsbMEg) |  2vzh  |
 | [liuyubobobo部分教程](https://pan.baidu.com/s/1QY09SjKPJaBbOO8jkqhw6w) |  hd6i  |
@@ -32,6 +32,7 @@
 | [【JAVA版】2020年最新 左神算法与数据结构](https://pan.baidu.com/s/1TFQrMw-87wSTqYRG2q6EiA) |  lao4  |
 | [[51CTO]经典数据结构合集(C语言版)(七日成蝶)](https://pan.baidu.com/s/1oJfKNmqm840kd0HkcEmttw) |  7gp6  |
 | [算法与数据结构综合(C++)学习算法思想，修炼编程内功](https://pan.baidu.com/s/12JfJ6NeR2yfHSh5ZtxainQ) |  lrre  |
+| [黑马斧头帮帮主数据结构](https://pan.baidu.com/s/1lfArhrOQ9nqBkoJTDSta2w) |  mtws  |
 
 ✅编程类
 
@@ -146,7 +147,7 @@
 | [老友记1-10季大约60G](https://pan.baidu.com/s/175IzmS5j7hLrzYWZOXnQNQ) |  pf7x  |
 | [生活大爆炸两季](https://pan.baidu.com/s/1HuUZY5aD_Q8rALoHWFAP1w) |  c7vd  |
 | [瑞克和莫蒂【三季全】](https://pan.baidu.com/s/1UC6iJjx_oTwyfSz9-1LNOQ) |  doit  |
-| [迪士尼动画](https://pan.baidu.com/s/1vKdojrBXFr1fGYo__lH8Bw) |  kky5  |
+| [迪士尼动画](https://pan.baidu.com/s/18aYiyE_A0YPyO7f-YqINmQ) |  ic2q  |
 | [The Infinity Saga【漫威系列】](https://cloud.189.cn/t/ZFRriqBf6bQj) |  yjz0  |
 | [华语无损音乐](https://cloud.189.cn/t/NBZn63fqEfey)          |  uc8u  |
 | [陈一发儿专辑全](https://cloud.189.cn/t/NFvUfmZvuama)        |  vnp4  |
@@ -192,7 +193,7 @@
 ✅专升本
 
 | 标题链接                                                     | 提取码 |
-| :----------------------------------------------------------- | :----- |
+| ------------------------------------------------------------ | ------ |
 | [2020库课河南专升本高数英语视频+题](https://pan.baidu.com/s/1n-jDbnQB7s3FHPoPrAKODQ) | ty4a   |
 
 ✅考研类
