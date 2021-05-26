@@ -2,7 +2,7 @@
 
 ##### <font color='red'>软件</font><font color='#008B8B'>介绍</font>
 
-**<font color='#008B8B'>SPSS</font>**为IBM公司推出的一系列用于**<font color='#008B8B'>统计学分析运算</font>**、**<font color='#008B8B'>数据挖掘</font>**、**<font color='#008B8B'>预测分析</font>**和**<font color='#008B8B'>决策支持任务</font>**的软件产品及相关服务的总称，有Windows和Mac OS X等版本。
+**<font color='#008B8B'>SPSS</font>**为IBM公司推出的一系列用于 **<font color='#008B8B'>统计学分析运算</font> ** 、**<font color='#008B8B'>数据挖掘</font>**、**<font color='#008B8B'>预测分析</font>**和 **<font color='#008B8B'>决策支持任务</font>** 的软件产品及相关服务的总称，有Windows和Mac OS X等版本。
 
 
 
