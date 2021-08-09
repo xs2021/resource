@@ -307,8 +307,8 @@
 
 > 1. 公众号留言板进行留言
 >
-> 2. [储物间留言](http://gmengshuai.ys168.com/)：
+> 2. [储物间留言](http://gmengshuai.uepan.com)：
 >
->    [http://gmengshuai.uepan.com/](http://gmengshuai.ys168.com/)
+>    [http://gmengshuai.uepan.com](http://gmengshuai.uepan.com)
 >
 > 3. QQ联系我：191639197
