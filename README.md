@@ -97,8 +97,8 @@
 | [excel教程](https://pan.baidu.com/s/1bKhPYagHp5_SkCKPxdOQXw) |  34st  |
 | [Pr基础全通关：从0到1，进阶剪辑大神（完结）](https://pan.baidu.com/s/1FJQ4ZktijLsI8AK_xvFPsQ) |  mc4x  |
 | [冯注龙零基础学PS，30堂课从入门到精通](https://pan.baidu.com/s/11ujw-JJCEdO13OgPiI2WfQ) |  42g8  |
-| [bilibili敬伟PS从小白到高手超全教程](https://pan.baidu.com/s/1VUBxqFfowDRrVsXnqtRabg) |  flf1  |
-| [2020敬伟ps书籍配套教程及素材_小帅自购](https://pan.baidu.com/s/1CUciWtUNamon-qEsLY-TLw) |  xhq9  |
+| [bilibili敬伟PS从小白到高手超全教程](https://cloud.189.cn/t/rYFjAjvYBRny) |  iyj6  |
+| [2020敬伟ps书籍配套教程及素材_小帅自购](https://pan.baidu.com/s/1drIBf97kHpzgDitRoKSnyw) |  o4yx  |
 | [李兴兴(B站)PR和AE](https://cloud.189.cn/t/YVfUZjI7RjQf)     |  s7em  |
 | [摄影类](https://cloud.189.cn/t/yYzMJnzAvEFb)                |  9bpv  |
 | [五笔教程](https://cloud.189.cn/t/Av6namUZzEv2)              |  u4wd  |
