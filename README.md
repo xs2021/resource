@@ -102,33 +102,6 @@
 | [五笔教程](https://cloud.189.cn/t/Av6namUZzEv2)              |  u4wd  |
 
 
-
-
-
-# 经典电子书🚕
-
-| 标题链接                                                     | 提取码 |
-| :----------------------------------------------------------- | :----: |
-| [机械工业出版社 计算机科学丛书（黑皮书）全套下载](https://mp.weixin.qq.com/s?__biz=MzAxNDk3MTA4NA==&mid=2247487812&idx=1&sn=8eb5ae3ffc5ca73c6818730327856935&chksm=9b8a68e7acfde1f1cf4f0568c5bf6e721c9b5ff480bd0359bed648efc0aa2d6b7787fdd688c7&token=452300671&lang=zh_CN#rd) |        |
-| [豆瓣1](https://pan.baidu.com/s/1Bl5ZTSHuMY5N5gqOpXxehA)     |  dgba  |
-| [豆瓣2](https://pan.baidu.com/s/1a3GG39NjDoAvAq42EIZr4g)     |  5qxi  |
-| [豆瓣3](https://pan.baidu.com/s/1NhmuNYU-w37Hmf5TqtlDUA)     |  2mfu  |
-| [豆瓣文学小说top100+（超5000人平均分8.5以上）](https://pan.baidu.com/s/1LnyhRxd_koc_05dzM_I4cw) |  v7hm  |
-| [金庸作品](https://pan.baidu.com/s/1FhUs-NmWImtQrz_G5YhoGQ)  |  uufs  |
-| [东野圭吾](https://pan.baidu.com/s/13egcaDhvwYsMdyqc9cz_Dg)  |  b83a  |
-| [武侠小说](https://pan.baidu.com/s/1H59sITRt6vTnmAhKG69mjQ)  |  bf1s  |
-| [图灵社区电子图书众筹](https://pan.baidu.com/s/1jzu7k5aVnf4P6J3j_7sUlw) |  2598  |
-| [编程电子书](https://pan.baidu.com/s/1cQ5xM5cgiEtQZh6KIeNcKg) |  0lfz  |
-| [C语言电子书](https://pan.baidu.com/s/1orrm4xUSkSklFndXAUhcdQ) |  0hn0  |
-| [C++电子书](https://pan.baidu.com/s/1UL89MeUWh23U-5Ffja-T9w) |  wz5j  |
-| [高中电子课本【9科全覆盖】](https://pan.baidu.com/s/1FQc_0CZd-zbUWZUafb45FQ) |  3jxj  |
-| [英文原著资源](https://pan.baidu.com/s/1fLx5E5cuWthjmZeT-sYkhQ) |  skzt  |
-| [英文原著1万册](https://pan.baidu.com/s/1T91YD7t5UrC-t_bcRSUG8w) |  o20x  |
-
-
-
-
-
 # 经典影视音乐🚙
 
 | 标题链接                                                     | 提取码 |
@@ -158,10 +131,10 @@
 
 | 标题链接                                                     | 提取码 |
 | ------------------------------------------------------------ | :----: |
-| [高数上册教学视频(徐小湛)同济七版](https://pan.baidu.com/s/1ZTYtFIPSvHJuLNuemfe0hA) |  8bn3  |
-| [高数下册教学视频(徐小湛)同济七版](https://pan.baidu.com/s/1F4cO3sD-jIlJWZWGTJxSmw) |  fxbf  |
-| [线性代数(徐小湛)新版90讲](https://pan.baidu.com/s/1WwLiqTrlJv-K1v6Cu39aAw) |  moft  |
-| [概率论与数理统计(徐小湛)浙大四版](https://pan.baidu.com/s/1S9i2JPBkz6plhCTkbeZZ_A) |  l03f  |
+| [高数上册教学视频(徐老师)同济七版](https://pan.baidu.com/s/1ZTYtFIPSvHJuLNuemfe0hA) |  8bn3  |
+| [高数下册教学视频(徐老师)同济七版](https://pan.baidu.com/s/1F4cO3sD-jIlJWZWGTJxSmw) |  fxbf  |
+| [线性代数(徐老师)新版90讲](https://pan.baidu.com/s/1WwLiqTrlJv-K1v6Cu39aAw) |  moft  |
+| [概率论与数理统计(徐老师)浙大四版](https://pan.baidu.com/s/1S9i2JPBkz6plhCTkbeZZ_A) |  l03f  |
 | [高等数学 上册（同济七版）汤家凤精讲新版](https://pan.baidu.com/s/1Sh_YeD6bycOUlwFSamwrqg) |  n15i  |
 | [高等数学 下册（同济七版）汤家凤精讲新版](https://pan.baidu.com/s/1QixddlWl-VZPtD5o5Q3E9w) |  ys4r  |
 | [高数上零基础（同济七版）汤家凤精讲旧版](https://pan.baidu.com/s/13AsFBs3lxruhQBagLLuH7w) |  56cp  |
